@@ -1,0 +1,293 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 2;
+	--web-view-id: Web_1920__2;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+body {
+	overflow: hidden;
+}
+#Web_1920__2 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 2;
+	--web-view-id: Web_1920__2;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Group_2 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_7_m {
+	fill: url(#Rectangle_7_m);
+}
+.Rectangle_7_m {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.529));
+	position: absolute;
+	overflow: visible;
+	width: 1938px;
+	height: 1098px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_9 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 551px;
+	height: 55px;
+	left: 685px;
+	top: 604px;
+}
+#Rectangle_10 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 253px;
+	height: 55px;
+	left: 685px;
+	top: 706px;
+}
+#Rectangle_11 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 253px;
+	height: 55px;
+	left: 983px;
+	top: 706px;
+}
+#Rectangle_12 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 253px;
+	height: 55px;
+	left: 830px;
+	top: 800px;
+}
+#states {
+	background-color: white;
+	color: #005677;
+	width: 10rem;
+	position: absolute;
+	top: 15px;
+  font-size: 1.5rem;
+
+}
+#State {
+	opacity: 0.2;
+	left: 880px;
+	top: 600px;
+	position: absolute;
+	overflow: visible;
+	width: 46px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(0,0,0,1);
+	background-color: red;
+}
+/* #From_DDMMYYYY {
+	opacity: 0.2;
+	left: 718px;
+	top: 720px;
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#To_DDMMYYYY {
+	opacity: 0.2;
+	left: 1019px;
+	top: 720px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+} */
+#btn {
+	background-color: red;
+}
+.input {
+	background-color: black;
+	overflow: auto;
+}
+#Group_2_t {
+	position: absolute;
+	width: 1920px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	fill: rgba(0,38,59,1);
+}
+.Rectangle_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.702));
+	position: absolute;
+	overflow: visible;
+	width: 1938px;
+	height: 83px;
+	left: 0px;
+	top: 0px;
+}
+#Home {
+	left: 951px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Overview {
+	opacity: 0.7;
+	left: 1069px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Pre-Pandemic {
+	opacity: 0.7;
+	left: 1211px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Forecast {
+	opacity: 0.7;
+	left: 1599px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Life_in_Pandemic {
+	opacity: 0.7;
+	left: 1394px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#About_Us {
+	opacity: 0.7;
+	left: 1734px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
