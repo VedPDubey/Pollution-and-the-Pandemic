@@ -1,4 +1,3 @@
-# TeamUnderdogs_Hack36
 <h1 align="center">Pollution and the Pandemic - Team Underdogs</h1>
 <p align="center">
 </p>
