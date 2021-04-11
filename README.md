@@ -6,7 +6,7 @@
 
 
 ## Introduction:
-  On 23rd March 202 the government of India under Prime Minister Modi ordered a nationwide lockdown for 21 days, limiting movement of the entire
+  On 23rd March 2020 the government of India under Prime Minister Narendra Modi ordered a nationwide lockdown for 21 days, limiting movement of the entire
   1.38 billion or 138 crore population of India as a preventive measure against the COVID-19 pandemic in India.
   And that is pretty much how - for us, the Indian denizens - a life in the pandemic was about to begin.
 
