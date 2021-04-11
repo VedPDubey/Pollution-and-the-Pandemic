@@ -25,7 +25,7 @@
   <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
   
 ## Presentation Link:
-  <a href="https://docs.google.com/presentation/d/1NEbqpM6J6UkmHN_J6NsgOhKvDU6fkfnli4OIg1lh-pk/edit?usp=sharing"> ppt link here </a>
+  <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ400j2Niy0FIFqiOGZYAcd_lRCbE2EEwsUbUKEuJeW3rvN02_ZvFho6NglqgxWmX2eLzmaaBTtrKpB/pub?start=true&loop=true&delayms=3000"> Link to our Project Powerpoint</a>
   
   
 ## Table of Contents:
