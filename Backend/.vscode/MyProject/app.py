@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask,Response
 from flask import render_template
 from flask import request,redirect, url_for
 
@@ -124,9 +124,19 @@ def input():
         forecast = model.predict(future)
 
         predictions_df=pd.DataFrame(forecast,columns=['ds','yhat'])
-        return render_template('example.html',predictions_s = str(predictions_df))
+        predictions = predictions_df.to_csv(index=False)
+        #return render_template('example.html',predictions_s = str(predictions_df))
+        return Response(
+        predictions,
+        mimetype="text/csv",
+        headers={"Content-disposition":
+                 "attachment; filename=predictions.csv"})
                 
     return render_template('2.html')
+
+@app.route('/LifeinPandemic/')
+def pandemic():
+    return render_template('4.html')
 
 if __name__ == '__main__':
     app.run(debug=True,port=8000)
