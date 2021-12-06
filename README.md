@@ -26,9 +26,6 @@
   
 ## Presentation Link:
   <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ400j2Niy0FIFqiOGZYAcd_lRCbE2EEwsUbUKEuJeW3rvN02_ZvFho6NglqgxWmX2eLzmaaBTtrKpB/pub?start=true&loop=true&delayms=3000"> Link to our Project Powerpoint</a>
-  
-  
-## Table of Contents:
 
 ## Technology Stack:
   1) Python 3.7
