@@ -21,9 +21,6 @@
   To summarise the project great emphasis has been made on how much the pandemic has been responsible for affecting the pollution, through interactive
   graphs and elements which will grasp the interest and pique the curiosity of the user.
   
-## Demo Video Link:
-  <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
-  
 ## Presentation Link:
   <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ400j2Niy0FIFqiOGZYAcd_lRCbE2EEwsUbUKEuJeW3rvN02_ZvFho6NglqgxWmX2eLzmaaBTtrKpB/pub?start=true&loop=true&delayms=3000"> Link to our Project Powerpoint</a>
 
